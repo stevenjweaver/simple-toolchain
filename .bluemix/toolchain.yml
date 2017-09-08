@@ -15,7 +15,7 @@ template:
     git url: >-
       [https://github.com/stevenjweaver/simple-toolchain](https://github.com/stevenjweaver/simple-toolchain)
     git branch: >-
-      [master](hhttps://github.com/stevenjweaver/simple-toolchain/tree/master)
+      [master](https://github.com/stevenjweaver/simple-toolchain/tree/master)
 toolchain:
   name: 'simple-toolchain-{{timestamp}}'
   template:
